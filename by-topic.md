@@ -296,7 +296,7 @@
 
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
-- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - 💯 Curated coding interview preparation materials for busy software engineers
+- [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
@@ -1618,7 +1618,7 @@
 - [asciidocfx/AsciidocFX](https://github.com/asciidocfx/AsciidocFX) - Asciidoc Editor and Toolchain written with JavaFX 21 (Build PDF, Epub, Mobi and HTML books, documents and slides)
 - [Randgalt/record-builder](https://github.com/Randgalt/record-builder) - Record builder generator for Java records
 - [manifold-systems/manifold](https://github.com/manifold-systems/manifold) - Manifold is a Java compiler plugin, its features include Metaprogramming, Properties, Extension Methods, Operator Overloading, Templates, a Preprocessor, and more.
-- [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
+- [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - One command to deploy a more powerful, self‑hosted alternative to SurveyMonkey.
 - [jtablesaw/tablesaw](https://github.com/jtablesaw/tablesaw) - Java dataframe and visualization library
 - [RuedigerMoeller/fast-serialization](https://github.com/RuedigerMoeller/fast-serialization) - FST: fast java serialization drop in-replacement
 - [xdrop/fuzzywuzzy](https://github.com/xdrop/fuzzywuzzy) - Java fuzzy string matching implementation of the well known Python's fuzzywuzzy algorithm. Fuzzy search for Java
@@ -3432,7 +3432,7 @@
 
 ## springboot 
 
-- [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - Make a better survey system.
+- [javahuang/SurveyKing](https://github.com/javahuang/SurveyKing) - One command to deploy a more powerful, self‑hosted alternative to SurveyMonkey.
 - [dromara/fast-request](https://github.com/dromara/fast-request) - IntelliJ IDEA plugin Fast Request
 - [HimitZH/HOJ](https://github.com/HimitZH/HOJ) - ⚡🔥Hcode Online Judge(HOJ)🔥⚡：基于SpringCloud与Vue前后端分离，分布式架构的在线测评平台OJ (An open source online judge system base on SpringBoot, Springcloud Alibaba and Vue.js !)
 - [fuzhengwei/itstack-demo-design](https://github.com/fuzhengwei/itstack-demo-design) - :art: 《重学Java设计模式》是一本互联网真实案例实践书籍。以落地解决方案为核心，从实际业务中抽离出，交易、营销、秒杀、中间件、源码等22个真实场景，来学习设计模式的运用。欢迎关注小傅哥，微信(fustack)，公众号：bugstack虫洞栈，博客：https://bugstack.cn
