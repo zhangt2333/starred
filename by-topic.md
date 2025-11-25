@@ -425,7 +425,7 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
-- [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates management tool that automates the lifecycle of issuance, deployment, renewal, and notification. 完全开源免费的自托管 SSL 证书管理工具，申请、部署、续期、通知全流程自动化，支持各大主流云厂商。
+- [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool that automates the lifecycle of issuance, deployment, renewal, and notification. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、通知全流程自动化，支持各大主流云厂商。
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -1361,7 +1361,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
-- [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates management tool that automates the lifecycle of issuance, deployment, renewal, and notification. 完全开源免费的自托管 SSL 证书管理工具，申请、部署、续期、通知全流程自动化，支持各大主流云厂商。
+- [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool that automates the lifecycle of issuance, deployment, renewal, and notification. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、通知全流程自动化，支持各大主流云厂商。
 - [chocolatey/choco](https://github.com/chocolatey/choco) - Chocolatey - the package manager for Windows
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
@@ -1515,7 +1515,7 @@
 
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
-- [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates management tool that automates the lifecycle of issuance, deployment, renewal, and notification. 完全开源免费的自托管 SSL 证书管理工具，申请、部署、续期、通知全流程自动化，支持各大主流云厂商。
+- [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool that automates the lifecycle of issuance, deployment, renewal, and notification. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、通知全流程自动化，支持各大主流云厂商。
 - [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [reqable/reqable-app](https://github.com/reqable/reqable-app) - Reqable issue track repo
@@ -2408,6 +2408,7 @@
 
 ## others 
 
+- [OpenListTeam/OpenList](https://github.com/OpenListTeam/OpenList) - A new AList Fork to Anti Trust Crisis
 - [Yalums/lyra-exporter](https://github.com/Yalums/lyra-exporter) - Open-source multi-platform AI conversation manager supporting Claude, ChatGPT, Gemini, NotebookLM, Google AI Studio, SillyTavern and more. Actively improving mobile and sillytavern experience
 - [kxnotes/Real-US-Address-Generator](https://github.com/kxnotes/Real-US-Address-Generator) - 一个真实美国地址生成器
 - [Cat7373/taiji-encode](https://github.com/Cat7373/taiji-encode) - 太极编码器
