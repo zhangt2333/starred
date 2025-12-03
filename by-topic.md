@@ -592,7 +592,7 @@
 
 ## chatgpt 
 
-- [Yalums/lyra-exporter](https://github.com/Yalums/lyra-exporter) - Open-source multi-platform AI conversation manager supporting Claude, ChatGPT, Gemini, NotebookLM, Google AI Studio, SillyTavern and more. Actively improving mobile and sillytavern experience
+- [Yalums/lyra-exporter](https://github.com/Yalums/lyra-exporter) - Open-source multi-platform AI conversation manager supporting Claude, ChatGPT, Grok, Gemini, NotebookLM, Google AI Studio, SillyTavern and more. Actively improving mobile and sillytavern experience
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
