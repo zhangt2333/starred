@@ -197,6 +197,7 @@
 - [qt](#qt)
 - [quantitative-finance](#quantitative-finance)
 - [r](#r)
+- [rag](#rag)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -268,6 +269,7 @@
 
 ## agent 
 
+- [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
 - [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -283,6 +285,7 @@
 
 ## ai 
 
+- [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
 - [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 - [agno-agi/agno](https://github.com/agno-agi/agno) - The open-source stack for building, running and managing multi-agent systems.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
@@ -330,7 +333,7 @@
 - [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook) - Curated coding interview preparation materials for busy software engineers
 - [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) - 📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings
 - [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm) - 刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
 
 ## analytics 
 
@@ -341,6 +344,7 @@
 
 ## android 
 
+- [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
 - [Guardsquare/proguard](https://github.com/Guardsquare/proguard) - ProGuard, Java optimizer and obfuscator
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
@@ -557,6 +561,7 @@
 
 ## c 
 
+- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [Stellarium/stellarium](https://github.com/Stellarium/stellarium) - Stellarium is a free GPL software which renders realistic skies in real time with OpenGL. It is available for Linux/Unix, Windows and macOS. With Stellarium, you really see what you can see with your 
 - [3proxy/3proxy](https://github.com/3proxy/3proxy) - 3proxy - tiny free proxy server
@@ -999,6 +1004,7 @@
 
 ## docker 
 
+- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [oneclickvirt/oneclickvirt](https://github.com/oneclickvirt/oneclickvirt) - Universal Virtualization Management Platform   可扩展的通用虚拟化管理平台，支持 LXD / Incus / Docker / Proxmox VE
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
 - [Mailu/Mailu](https://github.com/Mailu/Mailu) - Insular email distribution - mail server as Docker images
@@ -1648,7 +1654,7 @@
 ## java 
 
 - [Guardsquare/proguard](https://github.com/Guardsquare/proguard) - ProGuard, Java optimizer and obfuscator
-- [future0923/debug-tools](https://github.com/future0923/debug-tools) - hot deploy, hotswap, hot reload, Similar to jrebel. Call any Java method, Similar to api tool. Others: SQL statements and time consumption, Search HttpUrl, Groovy.（热部署、热重载、调用任意Java方法、打印SQL、执行Groovy、搜索
+- [future0923/debug-tools](https://github.com/future0923/debug-tools) - 热部署、热重载、调用任意Java方法、打印SQL、执行Groovy、搜索 http 地址（hot deploy, hotswap, hot reload, Similar to jrebel. Call any Java method, Similar to api tool. Others: SQL statements and time consumption, Search HttpUrl,
 - [babyfish-ct/jimmer](https://github.com/babyfish-ct/jimmer) - The most advanced ORM of JVM, for both java & kotlin
 - [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -1771,7 +1777,7 @@
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [mapstruct/mapstruct](https://github.com/mapstruct/mapstruct) - An annotation processor for generating type-safe bean mappers
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 
 ## javafx 
@@ -1898,6 +1904,7 @@
 
 ## kotlin 
 
+- [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
 - [kosi-libs/Kodein](https://github.com/kosi-libs/Kodein) - Painless Kotlin Dependency Injection
 - [babyfish-ct/jimmer](https://github.com/babyfish-ct/jimmer) - The most advanced ORM of JVM, for both java & kotlin
 - [Kotlin/dataframe](https://github.com/Kotlin/dataframe) - Structured data processing in Kotlin
@@ -2025,6 +2032,7 @@
 
 ## linux 
 
+- [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - self-hosted plaform for secure execution of untrusted user or AI-generated code
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1107+ languages!
@@ -2074,6 +2082,7 @@
 
 ## llm 
 
+- [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
 - [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
 - [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
@@ -2290,7 +2299,7 @@
 - [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Framer, Perplexity, Superhuman, Twilio, Buffer and more.
 - [kohlschutter/junixsocket](https://github.com/kohlschutter/junixsocket) - Unix Domain Sockets for all Java versions 7 and newer (AF_UNIX), AF_TIPC, AF_VSOCK, and more
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
 - [aio-libs/aiomysql](https://github.com/aio-libs/aiomysql) - aiomysql is a library for accessing a MySQL database from the asyncio
 
 ## natural-language-processing 
@@ -3164,6 +3173,15 @@
 - [ropensci/handlr](https://github.com/ropensci/handlr) - convert among citation formats
 - [microsoft/ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners) - 12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all
 
+## rag 
+
+- [DearVa/Everywhere](https://github.com/DearVa/Everywhere) - A context-aware AI assistant for your desktop. Ready to respond intelligently, seamlessly integrating multiple LLMs and MCP tools.
+- [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, No-code agent builder, MCP compatibility,  and more.
+- [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
+- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
+- [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 LobeHub - an open-source, modern design AI Agent Workspace. Supports multiple AI providers, Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click
+
 ## rails 
 
 - [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
@@ -3506,7 +3524,7 @@
 - [JetBrains/kotlin-compiler-server](https://github.com/JetBrains/kotlin-compiler-server) - Server for executing kotlin code
 - [paulcwarren/spring-content](https://github.com/paulcwarren/spring-content) - Cloud-Native Storage and Enterprise Content Services (ECMS) for Spring
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - 「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
 
 ## spring-boot 
 
@@ -3628,6 +3646,7 @@
 
 ## terminal 
 
+- [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上目前能力最为强大的AI Agent
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
