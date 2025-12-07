@@ -257,7 +257,7 @@
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. 
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ2, CAB, CHM, CPIO, DEB, GZ, ISO, JAR, LHA/LZH, NSIS, OOo, PAQ/LPAQ, PEA, QUAD, RAR, RPM, split, TAR, Z, ZIP, ZIPX, Zstandard.
-- [xeefei/X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置】生成功能。
+- [xeefei/X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置 & 一键部署中转】生成功能。
 - [Tichau/FileConverter](https://github.com/Tichau/FileConverter) - File Converter is a very simple tool which allows you to convert and compress files using the context menu in windows explorer.
 - [PDFMathTranslate-next/PDFMathTranslate-next](https://github.com/PDFMathTranslate-next/PDFMathTranslate-next) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
@@ -426,7 +426,7 @@
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [darkyzhou/seele](https://github.com/darkyzhou/seele) - 面向云原生的在线评测系统. Cloud-Native oriented Online Judge system
 - [langgenius/dify-sandbox](https://github.com/langgenius/dify-sandbox) - A lightweight, fast, and secure code execution environment that supports multiple programming languages
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - self-hosted plaform for secure execution of untrusted user or AI-generated code
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted ai agent sandboxes
 
 ## font
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。  
