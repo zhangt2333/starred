@@ -897,7 +897,7 @@
 - [Kotlin/kotlinx-io](https://github.com/Kotlin/kotlinx-io) - Kotlin multiplatform I/O library
 - [massivemadness/Squircle-CE](https://github.com/massivemadness/Squircle-CE) - 👨‍💻 Squircle CE is a fast and free multi-language code editor for Android
 - [javalin/javalin](https://github.com/javalin/javalin) - A simple and modern Java and Kotlin web framework
-- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击 Android 应用 \| An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+- [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于无障碍，高级选择器，订阅规则的自定义屏幕点击安卓应用 \| An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
 - [bnorm/kotlin-power-assert](https://github.com/bnorm/kotlin-power-assert) - Kotlin compiler plugin to enable diagrammed function calls in the Kotlin programming language
 - [Kotlin/kotlinx-cli](https://github.com/Kotlin/kotlinx-cli) - Pure Kotlin implementation of a generic CLI parser.
 - [ajalt/clikt](https://github.com/ajalt/clikt) - Multiplatform command line interface parsing for Kotlin
