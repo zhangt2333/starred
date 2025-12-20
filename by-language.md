@@ -1219,7 +1219,7 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [jhpoelen/zenodo-upload](https://github.com/jhpoelen/zenodo-upload) - upload big files to Zenodo using cURL, jq and bash
 - [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
-- [ArtShiba/CF-Tunnel-Transparent-Proxy](https://github.com/ArtShiba/CF-Tunnel-Transparent-Proxy) - Demo: Proxy to build stable connection with Cloudflare Tunnel
+- [chaimode/CF-Tunnel-Transparent-Proxy](https://github.com/chaimode/CF-Tunnel-Transparent-Proxy) - Demo: Proxy to build stable connection with Cloudflare Tunnel
 - [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - [jlesage/docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
 - [thijsvanloef/palworld-server-docker](https://github.com/thijsvanloef/palworld-server-docker) - A Docker Container to easily run a Palworld dedicated server.
