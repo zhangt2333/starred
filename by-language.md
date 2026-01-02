@@ -205,7 +205,6 @@
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [doraemonkeys/WindSend](https://github.com/doraemonkeys/WindSend) - Quickly and securely sync clipboard, transfer files and directories between devices. 快速安全的同步剪切板，传输文件或文件夹
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
@@ -258,6 +257,7 @@
 - [chaosblade-io/chaosblade](https://github.com/chaosblade-io/chaosblade) - An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [charmbracelet/freeze](https://github.com/charmbracelet/freeze) - Generate images of code and terminal output 📸
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [YanxinTang/clipboard-online](https://github.com/YanxinTang/clipboard-online) - Share content between 💻Windows and 📱iOS
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
@@ -970,7 +970,7 @@
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effe
 - [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The Multi-Agent Framework, Runtime, and Control Plane. Build AI products that run in your cloud.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The complete stack for AI Agents: framework, runtime and control plane.
 - [lexiforest/curl_cffi](https://github.com/lexiforest/curl_cffi) - Python binding for curl-impersonate fork via cffi. A http client that can impersonate browser tls/ja3/http2 fingerprints.
 - [cwyalpha/Word-Formatter-Pro](https://github.com/cwyalpha/Word-Formatter-Pro) - 一款桌面应用程序，可将格式混乱的 Word 文档（及兼容格式）一键转换为符合规范的专业文档，实现排版工作自动化。
 - [cp9no1/PrinterService](https://github.com/cp9no1/PrinterService) - 基于@a937750307 项目lan-printing的修改
