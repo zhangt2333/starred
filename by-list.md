@@ -235,7 +235,7 @@
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
-- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
+- [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 - [kingToolbox/WindTerm](https://github.com/kingToolbox/WindTerm) - A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.
 - [RICwang/docker-wechat](https://github.com/RICwang/docker-wechat) - 在docker里运行wechat，可以通过web或者VNC访问wechat
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -874,6 +874,7 @@
 - [future0923/debug-tools](https://github.com/future0923/debug-tools) - 热部署、热重载、调用任意Java方法、打印SQL、执行Groovy、搜索 http 地址（hot deploy, hotswap, hot reload, Similar to jrebel. Call any Java method, Similar to api tool. Others: SQL statements and time consumption, Search HttpUrl, Groovy.）
 - [Guardsquare/proguard](https://github.com/Guardsquare/proguard) - ProGuard, Java optimizer and obfuscator
 - [frida/frida](https://github.com/frida/frida) - Clone this repo to build Frida
+- [jspecify/jspecify](https://github.com/jspecify/jspecify) - An artifact of fully-specified annotations to power static-analysis checks, beginning with nullness analysis.
 
 ## kt
 - [detekt/detekt](https://github.com/detekt/detekt) - Static code analysis for Kotlin
@@ -944,7 +945,7 @@
 - [babyfish-ct/jimmer](https://github.com/babyfish-ct/jimmer) - The most advanced ORM of JVM, for both java & kotlin
 - [kosi-libs/Kodein](https://github.com/kosi-libs/Kodein) - Painless Kotlin Dependency Injection
 - [Guardsquare/proguard](https://github.com/Guardsquare/proguard) - ProGuard, Java optimizer and obfuscator
-- [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop.
+- [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 
 ## mac
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS & iOS file archiver
