@@ -138,7 +138,7 @@
 - [mpvnet-player/mpv.net](https://github.com/mpvnet-player/mpv.net) - 🎞 mpv.net is a media player for Windows with a modern GUI.
 - [boy1dr/SpleeterGui](https://github.com/boy1dr/SpleeterGui) - Windows desktop front end for Spleeter - AI source separation
 - [BeyondDimension/SteamTools](https://github.com/BeyondDimension/SteamTools) - 🛠「Watt Toolkit」是一个开源跨平台的多功能 Steam 工具箱。
-- [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 阻止中国流氓软件的管理员授权. / Prevent UAC authorization of Chinese malware.
+- [the1812/Malware-Patch](https://github.com/the1812/Malware-Patch) - 通过 UAC 阻止流氓软件的管理员授权. / Prevent UAC authorization of malware.
 - [NickeManarin/ScreenToGif](https://github.com/NickeManarin/ScreenToGif) - 🎬 ScreenToGif allows you to record a selected area of your screen, edit and save it as a gif or video.
 - [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [wmjordan/PDFPatcher](https://github.com/wmjordan/PDFPatcher) - PDF补丁丁——PDF工具箱，可以编辑书签、剪裁旋转页面、解除限制、提取或合并文档，探查文档结构，提取图片、转成图片等等
@@ -205,7 +205,7 @@
 
 - [lollipopkit/flutter_server_box](https://github.com/lollipopkit/flutter_server_box) - ServerBox - server status & toolbox
 - [guozhigq/pilipala](https://github.com/guozhigq/pilipala) - PiliPala 是使用Flutter开发的BiliBili第三方客户端，感谢使用。
-- [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
+- [ente-io/ente](https://github.com/ente-io/ente) - 💚 End-to-end encrypted cloud for everything.
 - [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 - [doraemonkeys/WindSend](https://github.com/doraemonkeys/WindSend) - Quickly and securely sync clipboard, transfer files and directories between devices. 快速安全的同步剪切板，传输文件或文件夹
 - [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
@@ -550,11 +550,10 @@
 - [EhsanTang/ApiManager](https://github.com/EhsanTang/ApiManager) - CRAP - 开源API接口管理平台 | 完全开源、免费使用的API接口管理系统、BUG管理系统：API接口管理、文档管理、数据库表管理、接口调试、浏览器调试插件、导出word&pdf接口…..，采用SpringMVC + MyBatis + Lucene + Bootstrap + Angularjs + Iconfont + Guava Cache ，线上使用地址：http://api.cra
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [google/guava](https://github.com/google/guava) - Google core libraries for Java
-- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 学习&面试指南（Go、Python 后端面试通用,计算机基础面试总结）。准备后端技术面试，首选 JavaGuide！
+- [Snailclimb/JavaGuide](https://github.com/Snailclimb/JavaGuide) - Java 面试 & 后端通用面试指南，覆盖计算机基础、数据库、分布式、高并发与系统设计。准备后端技术面试，首选 JavaGuide！
 
 ## JavaScript 
 
-- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [Yalums/lyra-exporter](https://github.com/Yalums/lyra-exporter) - Visualize full conversation branches in timeline. A unified hub for global search and exporting. Compatible with Claude, ChatGPT, Grok, Gemini, AI Studio, NotebookLM, SillyTavern and more
 - [kxnotes/Real-US-Address-Generator](https://github.com/kxnotes/Real-US-Address-Generator) - 一个真实美国地址生成器
 - [Cat7373/taiji-encode](https://github.com/Cat7373/taiji-encode) - 太极编码器
@@ -633,7 +632,6 @@
 - [jhuckaby/Cronicle](https://github.com/jhuckaby/Cronicle) - A simple, distributed task scheduler and runner with a web based UI.
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less
 - [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push) - ✨微信公众号推送-给女朋友的浪漫
-- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 - [itorr/one-last-image](https://github.com/itorr/one-last-image) - 🧸「One Last Image」卢浮宫生成器 One Last Kiss 封面风格生成
 - [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 - [digitalocean/nginxconfig.io](https://github.com/digitalocean/nginxconfig.io) - ⚙️ NGINX config generator on steroids 💉
@@ -810,6 +808,7 @@
 ## Nunjucks 
 
 - [jamstack/jamstack.org](https://github.com/jamstack/jamstack.org) - The official Jamstack site
+- [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - A list of semi to fully remote-friendly companies (jobs) in tech.
 
 ## OCaml 
 
@@ -823,6 +822,7 @@
 
 ## Others 
 
+- [brave/brave-browser](https://github.com/brave/brave-browser) - Brave browser for Android, iOS, Linux, macOS, Windows.
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
 - [Tangent-Wei/crypto_info](https://github.com/Tangent-Wei/crypto_info) - （原创）全网最全-币圈区块链各类常用工具与相关信息资料大全-虚拟加密货币-欧易OKX币安Binace芝麻开门Gate-交易所App注册-NFT-Defi-加密钱包-比特币-新手入门教程 -持续更新
 - [VirgilClyne/iRingo](https://github.com/VirgilClyne/iRingo) - 解锁完整的 Apple功能和集成服务
