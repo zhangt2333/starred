@@ -316,7 +316,6 @@
 
 ## Groovy 
 
-- [palantir/gradle-git-version](https://github.com/palantir/gradle-git-version) - a Gradle plugin that uses `git describe` to produce a version string.
 - [node-gradle/gradle-node-plugin](https://github.com/node-gradle/gradle-node-plugin) - Gradle plugin for integrating NodeJS in your build. :rocket:
 
 ## HTML 
@@ -384,6 +383,7 @@
 - [JSQLParser/JSqlParser](https://github.com/JSQLParser/JSqlParser) - JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
+- [palantir/gradle-git-version](https://github.com/palantir/gradle-git-version) - a Gradle plugin that uses `git describe` to produce a version string.
 - [PointRider/open-java](https://github.com/PointRider/open-java) - 
 - [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
 - [OpenHFT/Java-Runtime-Compiler](https://github.com/OpenHFT/Java-Runtime-Compiler) - Java Runtime Compiler
