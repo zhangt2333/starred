@@ -630,6 +630,7 @@
 - [Cat7373/taiji-encode](https://github.com/Cat7373/taiji-encode) - 太极编码器
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
 - [droidrun/droidrun](https://github.com/droidrun/droidrun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
+- [Do1e/mijia-api](https://github.com/Do1e/mijia-api) - 米家API，使用Python在线控制米家设备
 
 ## game
 - [AlmasB/FXGL](https://github.com/AlmasB/FXGL) - Java / JavaFX / Kotlin Game Library (Engine)
