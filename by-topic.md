@@ -3323,7 +3323,7 @@
 - [zhongsp/TypeScript](https://github.com/zhongsp/TypeScript) - TypeScript 使用手册（中文版）翻译。http://www.typescriptlang.org
 - [ErnestThePoet/ir-virtual-machine](https://github.com/ErnestThePoet/ir-virtual-machine) - 哈尔滨工业大学/南京大学编译原理课程实验Web版IR虚拟机（含CLI版）💎The remastered Web IR Virtual Machine for HIT/NJU Compilation Principle Labs (with CLI version)
 - [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
-- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
