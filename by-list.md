@@ -468,7 +468,7 @@
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [pipwerks/PDFObject](https://github.com/pipwerks/PDFObject) - A lightweight JavaScript utility for dynamically embedding PDFs in HTML documents.
-- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern, lightweight, performant, accessible and extensible drag & drop toolkit for React.
+- [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [brunosimon/folio-2019](https://github.com/brunosimon/folio-2019) - 
 - [VueTorrent/VueTorrent](https://github.com/VueTorrent/VueTorrent) - The sleekest looking WEBUI for qBittorrent made with Vuejs!
