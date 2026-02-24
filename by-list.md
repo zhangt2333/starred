@@ -720,7 +720,7 @@
 - [StardustDL/nju-lib-index](https://github.com/StardustDL/nju-lib-index) - NJU 图书馆中文阅览区简要索引
 - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs) - Source for remoteintech.company — a community-maintained directory of remote-friendly tech companies
 - [greatghoul/remote-working](https://github.com/greatghoul/remote-working) - 收集整理远程工作相关的资料
-- [Coq-zh/SF-zh](https://github.com/Coq-zh/SF-zh) - 《软件基础》中译版 Software Foundations Chinese Translation
+- [Rocq-zh/SF-zh](https://github.com/Rocq-zh/SF-zh) - 《软件基础》中译版 Software Foundations Chinese Translation
 - [fuzhengwei/itstack-demo-bytecode](https://github.com/fuzhengwei/itstack-demo-bytecode) - 本专栏主要针对字节码编程系列知识栈进行编写文章学习。在字节码编程方便有三个比较常见的框架；ASM、Javassit、Byte-buddy，他们都可以使用自己的API方式进行字节码的插装，通过这样增强方法的方式就可以和Javaagent结合起来开发非入侵的全链路监控服务，以及做反射、中间件和混淆代码等
 - [BruceDone/awesome-crawler](https://github.com/BruceDone/awesome-crawler) - A collection of awesome web crawler,spider in different languages
 - [riusksk/secbook](https://github.com/riusksk/secbook) - 信息安全从业者书单推荐
@@ -1098,7 +1098,7 @@
 - [SonarSource/sonar-java](https://github.com/SonarSource/sonar-java) - :coffee: SonarSource Static Analyzer for Java Code Quality and Security
 - [javaparser/javaparser](https://github.com/javaparser/javaparser) - Java 1-25 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.
 - [INRIA/spoon](https://github.com/INRIA/spoon) - Spoon is a metaprogramming library to analyze and transform Java source code. :spoon: is made with :heart:, :beers: and :sparkles:. It parses source files to build a well-designed AST with powerful analysis and transformation API.
-- [Coq-zh/SF-zh](https://github.com/Coq-zh/SF-zh) - 《软件基础》中译版 Software Foundations Chinese Translation
+- [Rocq-zh/SF-zh](https://github.com/Rocq-zh/SF-zh) - 《软件基础》中译版 Software Foundations Chinese Translation
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 
 <a name="python"></a>
