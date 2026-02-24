@@ -2865,7 +2865,7 @@
 - [oldmanpushcart/greys-anatomy](https://github.com/oldmanpushcart/greys-anatomy) - Java诊断工具
 - [kimmknight/remoteapptool](https://github.com/kimmknight/remoteapptool) - Create and manage RemoteApps hosted on Windows 7, 8, 10, 11, XP and Server. Generate RDP and MSI files for clients.
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
-- [Coq-zh/SF-zh](https://github.com/Coq-zh/SF-zh) - 《软件基础》中译版 Software Foundations Chinese Translation
+- [Rocq-zh/SF-zh](https://github.com/Rocq-zh/SF-zh) - 《软件基础》中译版 Software Foundations Chinese Translation
 - [square/javapoet](https://github.com/square/javapoet) - A Java API for generating .java source files.
 - [fuzhengwei/itstack-demo-bytecode](https://github.com/fuzhengwei/itstack-demo-bytecode) - 本专栏主要针对字节码编程系列知识栈进行编写文章学习。在字节码编程方便有三个比较常见的框架；ASM、Javassit、Byte-buddy，他们都可以使用自己的API方式进行字节码的插装，通过这样增强方法的方式就可以和Javaagent结合起来开发非入侵的全链路监控服务，以及做反射、中间件和混淆代码等
 - [riusksk/secbook](https://github.com/riusksk/secbook) - 信息安全从业者书单推荐
