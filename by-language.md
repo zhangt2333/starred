@@ -697,7 +697,7 @@
 - [dmzz-yyhyy/LightNovelReader](https://github.com/dmzz-yyhyy/LightNovelReader) - 一款基于Compose的多数据源轻小说阅读器。支持epub导出，自定义背景样式，本地书架和更新提醒等功能。
 - [markusfisch/BinaryEye](https://github.com/markusfisch/BinaryEye) - Yet another barcode scanner for Android
 - [XayahSuSuSu/Android-DataBackup](https://github.com/XayahSuSuSu/Android-DataBackup) - DataBackup for Android 7.0+
-- [Kotlin/dataframe](https://github.com/Kotlin/dataframe) - Structured data processing in Kotlin
+- [Kotlin/dataframe](https://github.com/Kotlin/dataframe) - Kotlin DataFrame: typesafe in-memory structured data processing for JVM
 - [vinceglb/FileKit](https://github.com/vinceglb/FileKit) - Pick and save Files, Medias and Folder for Kotlin Multiplatform / KMP and Compose Multiplatform / CMP
 - [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
@@ -1155,7 +1155,7 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [0x676e67/rnet](https://github.com/0x676e67/rnet) - An ergonomic Python HTTP Client with TLS fingerprint
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource local-first sandboxes for ai agents
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
@@ -1198,7 +1198,7 @@
 - [Enter-tainer/cxx2flow](https://github.com/Enter-tainer/cxx2flow) - 将 C/C++ 代码转换成流程图 / Turn your C/C++ code into flowchart
 - [zu1k/translator](https://github.com/zu1k/translator) - 简单、轻量、好用的划词翻译软件
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
-- [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+- [sunface/rust-course](https://github.com/sunface/rust-course) - 什么？你敢放心的把后背交给 AI? 我赌你不敢，那就来学学 AI 时代最安全的语言吧(Python无法战胜！)。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell.
