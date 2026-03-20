@@ -663,7 +663,7 @@
 - [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步、历史记录管理工具 / Cross-platform cipboard syncing, history management tool
 - [lich0821/wcf-client-rust](https://github.com/lich0821/wcf-client-rust) - A Rust client for WeChatFerry.
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
-- [fangyuan99/cookie-share](https://github.com/fangyuan99/cookie-share) - Cookie-share is a extension/script that allows users to send and receive cookies between different devices or browsers. It can be used for multi-account switching, sharing video memberships, co-renting planets, and other scenarios. A self-hosted Cloudflare Worker ensures data security.
+- [fangyuan99/cookie-share](https://github.com/fangyuan99/cookie-share) - Cookie-share is a tampermonkey script that allows users to send and receive cookies between different devices or browsers. It can be used for multi-account switching, sharing video memberships, co-renting planets, and other scenarios. A self-hosted Cloudflare Worker ensures data security.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [cu1ch3n/caidan](https://github.com/cu1ch3n/caidan) - 🍔 A clean and minimal food menu template.
 - [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser.
@@ -693,7 +693,7 @@
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
 - [Naereen/badges](https://github.com/Naereen/badges) - :pencil: Markdown code for lots of small badges :ribbon: :pushpin: (shields.io, forthebadge.com etc) :sunglasses:. Contributions are welcome! Please add yours!
-- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 7 billion with natural language (powered by OpenAI). Follow us on Twitter: https://twitter.com/ossinsight
+- [pingcap/ossinsight](https://github.com/pingcap/ossinsight) - Analysis, Comparison, Trends, Rankings of Open Source Software, you can also get insight from more than 10 billion with natural language (powered by LLM). Follow us on Twitter: https://twitter.com/ossinsight
 - [SplittyDev/spacebadgers](https://github.com/SplittyDev/spacebadgers) - Fast and clean SVG badges
 - [0x5bfa/FluentHub](https://github.com/0x5bfa/FluentHub) - A stylish yet powerful GitHub client for Windows
 - [dagster-io/fake-star-detector](https://github.com/dagster-io/fake-star-detector) - 
