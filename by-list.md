@@ -82,7 +82,7 @@
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualization.
 - [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大的AI Agent
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
-- [Yalums/lyra-exporter](https://github.com/Yalums/lyra-exporter) - Visualize full conversation branches in timeline. A unified hub for global search and exporting. Compatible with Claude, ChatGPT, Grok, Gemini, AI Studio, NotebookLM, SillyTavern and more
+- [Laumss/loominary](https://github.com/Laumss/loominary) - Conversations shouldn't just live in a scroll bar. Loominary gives your Claude and SillyTavern conversations a home — a local archive of every conversation, yours to keep.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [muratcankoylan/Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 - [Haleclipse/CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
@@ -800,7 +800,7 @@
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [princehuang/overseas-website-note](https://github.com/princehuang/overseas-website-note) - 「海外工具网站」已经是我人生主要事业了，很庆幸还来得及，感谢这个伟大的 AI 时代。
 - [zhangchenchen/self-consistent-coder](https://github.com/zhangchenchen/self-consistent-coder) - 如何成为一名自洽的程序员
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 - [Tangent-Wei/crypto_info](https://github.com/Tangent-Wei/crypto_info) - （原创）全网最全-币圈区块链各类常用工具与相关信息资料大全-虚拟加密货币-欧易OKX币安Binace芝麻开门Gate-交易所App注册-NFT-Defi-加密钱包-比特币-新手入门教程 -持续更新
 - [zhanymkanov/fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices) - FastAPI Best Practices and Conventions we used at our startup
@@ -1045,7 +1045,7 @@
 - [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  \|  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
 - [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
 - [EcoPasteHub/EcoPaste](https://github.com/EcoPasteHub/EcoPaste) - 🎉跨平台的剪贴板管理工具 \| Cross-platform clipboard management tool
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
 <a name="middleware"></a>
 
