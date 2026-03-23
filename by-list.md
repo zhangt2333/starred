@@ -585,7 +585,7 @@
 ## funny
 
 - [wangxinleo/wechat-public-account-push](https://github.com/wangxinleo/wechat-public-account-push) - ✨微信公众号推送-给女朋友的浪漫
-- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites
+- [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [PaddlePaddle/PaddleFormers](https://github.com/PaddlePaddle/PaddleFormers) - PaddleFormers is an easy-to-use library of pre-trained large language model zoo based on PaddlePaddle.
 - [itorr/one-last-image](https://github.com/itorr/one-last-image) - 🧸「One Last Image」卢浮宫生成器 One Last Kiss 封面风格生成
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
@@ -1226,7 +1226,7 @@
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [WuKongSecurity/SpiderAPI](https://github.com/WuKongSecurity/SpiderAPI) - SpiderApi - 虫术 - 爬虫逆向常用 API
-- [Rain-kl/glider_guid](https://github.com/Rain-kl/glider_guid) - 使用Glider将节点转换成爬虫代理池，每秒切换IP，本项目包含使用教程，并提供将clash订阅转换为glider所支持的格式
+- [Rain-kl/PoolX](https://github.com/Rain-kl/PoolX) - 将节点转换成爬虫代理池，每秒切换IP. 提供图形界面方便导入节点与启动内核
 - [Python3WebSpider/ProxyPool](https://github.com/Python3WebSpider/ProxyPool) - An Efficient ProxyPool with Getter, Tester and Server
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
 - [xisuo67/XHS-Spider](https://github.com/xisuo67/XHS-Spider) - 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片）Telegram:https://t.me/+ZtLSwuIKTo44MDY1
