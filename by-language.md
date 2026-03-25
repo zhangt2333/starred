@@ -15,7 +15,6 @@
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [EJS](#ejs)
-- [Gherkin](#gherkin)
 - [Git Attributes](#git-attributes)
 - [Go](#go)
 - [Go Template](#go-template)
@@ -154,6 +153,7 @@
 - [c0re100/qBittorrent-Enhanced-Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - [Unofficial] qBittorrent Enhanced, based on qBittorrent
 - [vslavik/diff-pdf](https://github.com/vslavik/diff-pdf) - A simple tool for visually comparing two PDF files
 - [mltframework/shotcut](https://github.com/mltframework/shotcut) - cross-platform (Qt), open-source (GPLv3) video editor
+- [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
 - [univrsal/input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 - [Lymphatus/caesium-image-compressor](https://github.com/Lymphatus/caesium-image-compressor) - Caesium is an image compression software that helps you store, send and share digital pictures, supporting JPG, PNG, WebP and TIFF formats.   You can quickly reduce the file size (and resolution, if y
 - [eserie-fox/simple-concurrent-queue](https://github.com/eserie-fox/simple-concurrent-queue) - A simple concurrent queue using std::mutex and std::condition_variable in C++ 11
@@ -222,10 +222,6 @@
 
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [jaywcjlove/github-rank](https://github.com/jaywcjlove/github-rank) - 🕷️Github China/Global User Ranking, Global Warehouse Star Ranking (Github Action is automatically updated daily).
-
-## Gherkin 
-
-- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Git Attributes 
 
@@ -443,7 +439,7 @@
 - [JosephZhu1983/java-common-mistakes](https://github.com/JosephZhu1983/java-common-mistakes) - 书籍《Java 开发坑点解析：从根因分析到最佳实践》 & 极客时间专栏《Java业务开发常见错误100例》源码
 - [tabby-sec/tabby](https://github.com/tabby-sec/tabby) - A CAT called tabby ( Code Analysis Tool )
 - [JoyChou93/java-sec-code](https://github.com/JoyChou93/java-sec-code) - Java web common vulnerabilities and security code which is base on springboot and spring security
-- [metersphere/metersphere](https://github.com/metersphere/metersphere) - 🔥 MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
+- [metersphere/metersphere](https://github.com/metersphere/metersphere) - MeterSphere 是新一代的开源持续测试工具，内置 AI 助手，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。
 - [oshi/oshi](https://github.com/oshi/oshi) - Native Operating System and Hardware Information
 - [alibaba/jvm-sandbox-repeater](https://github.com/alibaba/jvm-sandbox-repeater) - A Java server-side recording and playback solution based on JVM-Sandbox
 - [vivo/MoonBox](https://github.com/vivo/MoonBox) - 月光宝盒：无侵入的流量录制与回放平台     A server-side traffic capture and replay platform with noninvasive
@@ -845,7 +841,6 @@
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
 - [xisuo67/XHS-Spider](https://github.com/xisuo67/XHS-Spider) - 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片）Telegram:https://t.me/+ZtLSwuIKTo44MDY1
 - [anderspitman/awesome-tunneling](https://github.com/anderspitman/awesome-tunneling) - List of ngrok, Cloudflare Tunnel, Tailscale, and ZeroTier alternatives and other tunneling software and services. Focus on self-hosting.
-- [lich0821/WeChatFerry](https://github.com/lich0821/WeChatFerry) - 微信机器人，可接入DeepSeek、Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。微信 hook WeChat Robot Hook.
 - [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) - Community plugins list, theme list, and releases of Obsidian.
 - [ivbeg/awesome-status-pages](https://github.com/ivbeg/awesome-status-pages) - Awesome list of status page open source software, services and public status pages of major internet companies
 - [wjf0214/qd-templates](https://github.com/wjf0214/qd-templates) - 基于开源新版签到框架站发布的公共har模板库，整理自用 qiandao 框架可用的各种网站和App的 Har 模板，仅供学习参考。
@@ -1250,6 +1245,7 @@
 - [shenuiuin/LXD_GPU_SERVER](https://github.com/shenuiuin/LXD_GPU_SERVER) - 实验室GPU服务器的LXD虚拟化
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial) - :penguin: Linux教程，主要内容：Linux 命令、Linux 系统运维、软件运维、精选常用Shell脚本
+- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [nginx-proxy/acme-companion](https://github.com/nginx-proxy/acme-companion) - Automated ACME SSL certificate generation for nginx-proxy
 - [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
 - [BytecodeDL/ByteCodeDL](https://github.com/BytecodeDL/ByteCodeDL) - A declarative static analysis tool for jvm bytecode based Datalog like CodeQL
