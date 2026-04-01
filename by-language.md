@@ -1152,7 +1152,7 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
 - [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic Python HTTP Client with TLS fingerprint
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - opensource secure local-first sandboxes for ai agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - secure, local-first and programmable sandboxes for AI agents
 - [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
