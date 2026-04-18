@@ -442,7 +442,7 @@
 - [LSPosed/LSPosed](https://github.com/LSPosed/LSPosed) - LSPosed Framework
 - [rememberber/MooTool](https://github.com/rememberber/MooTool) - Handy tool set for developers. 开发者常备小工具
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-- [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
+- [hwdsl2/docker-ipsec-vpn-server](https://github.com/hwdsl2/docker-ipsec-vpn-server) - Docker image to run an IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2. Auto-generates server config and supports VPN client setup on Linux, Windows, macOS, iOS and Android.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [Just-Hack-For-Fun/IP-Recorder](https://github.com/Just-Hack-For-Fun/IP-Recorder) - 一个记录本机IP的小程序
 - [dandavison/delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, rg --json, and blame output
