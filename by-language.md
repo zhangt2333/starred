@@ -559,7 +559,7 @@
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [vercel-labs/agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
 - [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [Laumss/loominary](https://github.com/Laumss/loominary) - Conversations shouldn't just live in a scroll bar. Loominary gives your Claude and SillyTavern conversations a home — a local archive of every conversation, yours to keep.
+- [Laumss/loominary](https://github.com/Laumss/loominary) - Conversations shouldn't just live in a scroll bar. Loominary gives your Claude and SillyTavern conversations a home — a local archive of every conversation, yours to keep. Coming soon...
 - [kxnotes/Real-US-Address-Generator](https://github.com/kxnotes/Real-US-Address-Generator) - 一个真实美国地址生成器
 - [Cat7373/taiji-encode](https://github.com/Cat7373/taiji-encode) - 太极编码器
 - [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -1325,7 +1325,7 @@
 - [dushixiang/next-terminal](https://github.com/dushixiang/next-terminal) - Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
-- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the most extensible AI-powered no-code/low-code platform for building business applications and enterprise solutions.
+- [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [BrandonStudio/Feishu-OIDC-Workers](https://github.com/BrandonStudio/Feishu-OIDC-Workers) - OpenID Connect (OIDC) adapter for Feishu OAuth 2.0. Running on Cloudflare Workers
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message se
 - [C4illin/ConvertX](https://github.com/C4illin/ConvertX) - 💾 Self-hosted online file converter. Supports 1000+ formats ⚙️
