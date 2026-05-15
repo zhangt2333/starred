@@ -1193,7 +1193,7 @@
 - [knownsec/KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
 - [linshaoSec/WaterExp](https://github.com/linshaoSec/WaterExp) - WaterExp:面向安服仔的 水报告模板和工具
 - [bytedance/appshark](https://github.com/bytedance/appshark) - Appshark is a static taint analysis platform to scan vulnerabilities in an Android app.
-- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索，紧跟 AI 技术发展，支持 MCP 调用，支持 n8n 工作流
+- [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，支持 JAR DIFF 分析，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索，紧跟 AI 技术发展，支持 MCP 和 n8n 工作流
 - [ZhangZhuoSJTU/Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) - Demystifying Exploitable Bugs in Smart Contracts
 - [frohoff/ysoserial](https://github.com/frohoff/ysoserial) - A proof-of-concept tool for generating payloads that exploit unsafe Java object deserialization.
 - [EvoSuite/evosuite](https://github.com/EvoSuite/evosuite) - EvoSuite - automated generation of JUnit test suites for Java classes
