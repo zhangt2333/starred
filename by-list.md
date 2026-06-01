@@ -1114,6 +1114,7 @@
 - [Rocq-zh/SF-zh](https://github.com/Rocq-zh/SF-zh) - 《软件基础》中译版 Software Foundations Chinese Translation
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
+- [pascal-lab/vide](https://github.com/pascal-lab/vide) - A Modern SystemVerilog Coding IDE.
 
 <a name="python"></a>
 
