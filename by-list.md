@@ -97,7 +97,7 @@
 - [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - CC GUI 客户端（专为开发者打造的VibeCoding平台）
 - [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
 - [zarazhangrui/frontend-slides](https://github.com/zarazhangrui/frontend-slides) - Create beautiful slides on the web using a coding agent's frontend skills
-- [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - The Starting Point for Next-Gen Agents
+- [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents
 
 <a name="app"></a>
 
@@ -467,6 +467,7 @@
 - [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
+- [DetachHead/rebased](https://github.com/DetachHead/rebased) - A git client based on the IntelliJ platform
 
 <a name="doc-tool-and-website"></a>
 
