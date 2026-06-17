@@ -1307,7 +1307,7 @@
 - [ropensci/handlr](https://github.com/ropensci/handlr) - convert among citation formats
 - [SimonLammer/anki-persistence](https://github.com/SimonLammer/anki-persistence) - Persist data between both sides of an anki flashcard.
 - [eserie-fox/simple-concurrent-queue](https://github.com/eserie-fox/simple-concurrent-queue) - A simple concurrent queue using std::mutex and std::condition_variable in C++ 11
-- [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT插件，支持制作素材库、AI助手、一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！
+- [Achuan-2/SlideSCI](https://github.com/Achuan-2/SlideSCI) - PPT插件，支持素材库、AI助手、一键添加图片标题，复制粘贴位置、一键图片对齐、一键插入Markdown（加粗、超链接等行内样式、代码块、LaTeX等块级样式）、便捷导出图片！
 
 <a name="vsc"></a>
 
