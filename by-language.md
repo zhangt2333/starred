@@ -270,7 +270,7 @@
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
-- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
+- [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [kopia/kopia](https://github.com/kopia/kopia) - Cross-platform backup tool for Windows, macOS & Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
@@ -324,6 +324,7 @@
 
 - [xeefei/X-Panel](https://github.com/xeefei/X-Panel) - 〔X-Panel 面板〕，Xray panel supporting multi-protocol multi-user expire day & traffic & Device restrictions (Vless & XTLS & Reality & XHTTP & Vision Seed & Switch)，集成【一键配置 & 一键部署中转】生成功能。
 - [microsoft/fluentui-system-icons](https://github.com/microsoft/fluentui-system-icons) - Fluent System Icons are a collection of familiar, friendly and modern icons from Microsoft.
+- [lcpmgh/colors](https://github.com/lcpmgh/colors) - 科研绘图配色推荐器
 - [godbasin/front-end-playground](https://github.com/godbasin/front-end-playground) - 被删和阿猪的前端游乐场！！快来一起撸猫一起学习前端吧~
 - [rime/home](https://github.com/rime/home) - Rime::Home is home to Rime users and developers
 - [webmin/webmin](https://github.com/webmin/webmin) - Powerful and flexible web-based server management control panel
@@ -605,7 +606,6 @@
 - [fanmingming/live](https://github.com/fanmingming/live) - ✯ 可直连访问的电视/广播图标库与相关工具项目 ✯ 🔕 永久免费 直连访问 完整开源 不断完善的台标 支持IPv4/IPv6双栈访问 🔕
 - [easychen/botchan](https://github.com/easychen/botchan) - 基于微信测试号的ChatBot，对接OpenAI API
 - [nuejs/nue](https://github.com/nuejs/nue) - Fastest way to build modern websites
-- [win12-online/win12](https://github.com/win12-online/win12) - Windows 12 网页版，在线体验 点击下面的链接在线体验
 - [knownsec/KCon](https://github.com/knownsec/KCon) - KCon is a famous Hacker Con powered by Knownsec Team.
 - [jlandure/alpine-chrome](https://github.com/jlandure/alpine-chrome) - Chrome Headless docker images built upon alpine official image
 - [pot-app/pot-desktop](https://github.com/pot-app/pot-desktop) - 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
@@ -1128,7 +1128,6 @@
 
 ## R 
 
-- [lcpmgh/colors](https://github.com/lcpmgh/colors) - 学术期刊配色推荐器
 - [ropensci/handlr](https://github.com/ropensci/handlr) - convert among citation formats
 
 ## Rich Text Format 
