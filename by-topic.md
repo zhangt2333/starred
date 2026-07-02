@@ -2195,6 +2195,7 @@
 
 ## llm 
 
+- [AlexsJones/llmfit](https://github.com/AlexsJones/llmfit) - Hundreds of models & providers. One command to find what runs on your hardware.
 - [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
@@ -2406,7 +2407,7 @@
 - [Jarrettluo/all-docs](https://github.com/Jarrettluo/all-docs) - "All Docs" is a tool that enables online previewing, storage, and sharing of documents such as Word, Excel, PowerPoint, PDF, and images (Pic). It supports full-text search for all document information
 - [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat) - Chat-based SQL Client and Editor for the next decade
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
-- [shiyanhui/Young](https://github.com/shiyanhui/Young) - A full-featured forum software built on Tornado and MongoDB.
+- [yann-shi/Young](https://github.com/yann-shi/Young) - A full-featured forum software built on Tornado and MongoDB.
 
 ## monitoring 
 
@@ -3306,7 +3307,7 @@
 - [QingdaoU/OnlineJudge](https://github.com/QingdaoU/OnlineJudge) - Open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [aio-libs/aiomysql](https://github.com/aio-libs/aiomysql) - aiomysql is a library for accessing a MySQL database from the asyncio
-- [shiyanhui/Young](https://github.com/shiyanhui/Young) - A full-featured forum software built on Tornado and MongoDB.
+- [yann-shi/Young](https://github.com/yann-shi/Young) - A full-featured forum software built on Tornado and MongoDB.
 
 ## python3 
 
