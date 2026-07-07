@@ -3106,7 +3106,7 @@
 - [SDUOJ/sduoj-sandbox](https://github.com/SDUOJ/sduoj-sandbox) - This is the sandbox of the SDUOJ judger.
 - [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes) - 🌈谷粒-Chrome插件英雄榜, 为优秀的Chrome插件写一本中文说明书, 让Chrome插件英雄们造福人类~  ChromePluginHeroes, Write a Chinese manual for the excellent Chrome plugin, let the Chrome plugin heroes benefit the human~ 公众号「0加1」同步更新
 - [ppoffice/hexo-theme-icarus](https://github.com/ppoffice/hexo-theme-icarus) - A simple, delicate, and modern theme for the static site generator Hexo.
-- [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
+- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 微信小程序开发资源汇总 :100:
 - [leisurelicht/wtfpython-cn](https://github.com/leisurelicht/wtfpython-cn) - wtfpython的中文翻译/持续🚧.../ 能力有限，欢迎帮我改进翻译
 - [gamedev-net/nehe-opengl](https://github.com/gamedev-net/nehe-opengl) - The complete archive of all NeHe OpenGL Lessons available at http://nehe.gamedev.net.
 - [tanshengjunjun/noteForOpenGL](https://github.com/tanshengjunjun/noteForOpenGL) - OpenGL学习脚印配套代码
