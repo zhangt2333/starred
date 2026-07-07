@@ -6,7 +6,6 @@
 ## Contents
 
 - [Assembly](#assembly)
-- [Astro](#astro)
 - [Batchfile](#batchfile)
 - [C](#c)
 - [C#](#c#)
@@ -68,10 +67,6 @@
 
 - [corkami/pics](https://github.com/corkami/pics) - File formats dissections and more...
 
-## Astro 
-
-- [stalwartlabs/website](https://github.com/stalwartlabs/website) - Stalwart Documentation and Website
-
 ## Batchfile 
 
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
@@ -127,7 +122,6 @@
 - [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
 - [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
 - [MediaBrowser/Emby](https://github.com/MediaBrowser/Emby) - Emby Server is a personal media server with apps on just about every device.
-- [yaobiao131/downkyicore](https://github.com/yaobiao131/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 - [mgth/LittleBigMouse](https://github.com/mgth/LittleBigMouse) - DPI Aware mouse move across screens
 - [ks233/ja-learner](https://github.com/ks233/ja-learner) - 📖简易日语学习 / 视觉小说阅读辅助工具
 - [IgorMundstein/WinMemoryCleaner](https://github.com/IgorMundstein/WinMemoryCleaner) - This free RAM cleaner uses native Windows features to optimize memory areas. It's a compact, portable, and smart application.
@@ -382,6 +376,7 @@
 - [JSQLParser/JSqlParser](https://github.com/JSQLParser/JSqlParser) - JSqlParser parses an SQL statement and translate it into a hierarchy of Java classes. The generated hierarchy can be navigated using the Visitor Pattern
 - [ikarus23/MifareClassicTool](https://github.com/ikarus23/MifareClassicTool) - An Android NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.
 - [exadel-inc/CompreFace](https://github.com/exadel-inc/CompreFace) - Leading free and open-source face recognition system
+- [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
 - [palantir/gradle-git-version](https://github.com/palantir/gradle-git-version) - a Gradle plugin that uses `git describe` to produce a version string.
 - [PointRider/open-java](https://github.com/PointRider/open-java) - 
 - [gunnarmorling/1brc](https://github.com/gunnarmorling/1brc) - 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
@@ -704,7 +699,6 @@
 - [fcitx5-android/fcitx5-android](https://github.com/fcitx5-android/fcitx5-android) - Fcitx5 input method framework and engines ported to Android
 - [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A feature-rich weather app with good visualizations and more than 50 sources.
 - [skydoves/sandwich](https://github.com/skydoves/sandwich) - 🥪  Sandwich is an adaptable and lightweight sealed API library designed for handling API responses and exceptions in Kotlin for Retrofit, Ktor, and Kotlin Multiplatform.
-- [gotify/android](https://github.com/gotify/android) - An app for creating push notifications for new messages posted to gotify/server.
 - [LouisCAD/Splitties](https://github.com/LouisCAD/Splitties) - A collection of hand-crafted extensions for your Kotlin projects.
 - [pdvrieze/xmlutil](https://github.com/pdvrieze/xmlutil) - XML Serialization library for Kotlin
 - [michaelbull/kotlin-retry](https://github.com/michaelbull/kotlin-retry) - A multiplatform higher-order function for retrying operations that may fail.
@@ -789,6 +783,7 @@
 
 ## MDX 
 
+- [stalwartlabs/website](https://github.com/stalwartlabs/website) - Stalwart Documentation and Website
 - [lvwzhen/law-cn-ai](https://github.com/lvwzhen/law-cn-ai) - ⚖️ AI 法律助手
 
 ## Makefile 
@@ -853,6 +848,7 @@
 - [AAkira/Kotlin-Multiplatform-Libraries](https://github.com/AAkira/Kotlin-Multiplatform-Libraries) - Kotlin Multiplatform Libraries. Welcome PR if you find or create new Kotlin Multiplatform Library.
 - [Just-Hack-For-Fun/Linux-INCIDENT-RESPONSE-COOKBOOK](https://github.com/Just-Hack-For-Fun/Linux-INCIDENT-RESPONSE-COOKBOOK) - Linux 应急响应手册
 - [RawChat/RawChat](https://github.com/RawChat/RawChat) - 
+- [yaobiao131/downkyicore](https://github.com/yaobiao131/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 - [aalhour/awesome-compilers](https://github.com/aalhour/awesome-compilers) - :sunglasses: Curated list of awesome resources on Compilers, Interpreters and Runtimes
 - [stackia/best-windows-apps](https://github.com/stackia/best-windows-apps) - 推荐好用、优秀的 Windows 应用
 - [hzlzh/Best-App](https://github.com/hzlzh/Best-App) - 收集&推荐优秀的 Apps/硬件/技巧/周边等
@@ -1518,7 +1514,7 @@
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [Vanessa219/vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
 - [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-- [justjavac/awesome-wechat-weapp](https://github.com/justjavac/awesome-wechat-weapp) - 微信小程序开发资源汇总 :100:
+- [justjavac/wechat-miniapp-radar](https://github.com/justjavac/wechat-miniapp-radar) - 微信小程序开发资源汇总 :100:
 
 ## Typst 
 
