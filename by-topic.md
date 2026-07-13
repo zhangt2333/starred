@@ -1862,7 +1862,7 @@
 - [zifeihan/friday](https://github.com/zifeihan/friday) - java runtime decompiler (java实时反编译工具)
 - [kohlschutter/junixsocket](https://github.com/kohlschutter/junixsocket) - Unix Domain Sockets for all Java versions 7 and newer (AF_UNIX), AF_TIPC, AF_VSOCK, and more
 - [typetools/checker-framework](https://github.com/typetools/checker-framework) - Pluggable type-checking for Java
-- [btraceio/btrace](https://github.com/btraceio/btrace) - BTrace - a safe, dynamic tracing tool for the Java platform
+- [btraceio/btrace](https://github.com/btraceio/btrace) - Production-safe dynamic tracing and diagnostics for Java applications—attach to live JVMs with no restart or recompilation.
 - [pascal-lab/Tai-e](https://github.com/pascal-lab/Tai-e) - An easy-to-learn/use static analysis framework for Java and Android
 - [SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium) - A browser automation framework and ecosystem.
 - [facebook/infer](https://github.com/facebook/infer) - A static analyzer for Java, C, C++, and Objective-C
