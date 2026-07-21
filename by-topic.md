@@ -292,7 +292,7 @@
 - [zai-org/Open-AutoGLM](https://github.com/zai-org/Open-AutoGLM) - An Open Phone Agent Model & Framework. Unlocking the AI Phone for Everyone
 - [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [LinShunKang/MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - High performance Java APM. Powered by ASM. Try it. Test it. If you feel its better, use it.
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
@@ -326,7 +326,7 @@
 - [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -505,7 +505,7 @@
 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
@@ -736,6 +736,7 @@
 - [Laumss/loominary](https://github.com/Laumss/loominary) - Conversations shouldn't just live in a scroll bar. Loominary gives your Claude and SillyTavern conversations a home — a local archive of every conversation, yours to keep. Coming soon...
 - [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [nianhua99/PandoraHelper](https://github.com/nianhua99/PandoraHelper) - 使用 PandoraHelper 轻松和你的小伙伴共享 ChatGPT Plus/Claude Pro 服务！
@@ -2226,7 +2227,7 @@
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) - XIAOJUSURVEY is an enterprises form builder and analytics platform that allows users to create questionnaires, exams, polls, quizzes, and analyze data online.
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
@@ -2247,7 +2248,7 @@
 
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
 
@@ -2402,7 +2403,7 @@
 - [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - 🤯 LobeHub is your Chief Agent Operator, organizing your agents into 7×24 operations by hiring, scheduling, and reporting on your entire AI team.
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
@@ -2492,7 +2493,7 @@
 ## nextjs 
 
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [papermark/papermark](https://github.com/papermark/papermark) - Papermark is the open-source DocSend alternative with built-in analytics and custom domains.
 - [cruip/open-react-template](https://github.com/cruip/open-react-template) - A free React / Next.js landing page template designed to showcase open source projects, SaaS products, online services, and more. Made by
@@ -2527,7 +2528,7 @@
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [clientIO/joint](https://github.com/clientIO/joint) - A proven SVG-based JavaScript diagramming library powering exceptional UIs
 - [alibaba/formily](https://github.com/alibaba/formily) - 📱🚀 🧩 Cross Device & High Performance Normal Form/Dynamic(JSON Schema) Form/Form Builder -- Support React/React Native/Vue 2/Vue 3
@@ -2632,7 +2633,7 @@
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
 - [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [opensolon/solon](https://github.com/opensolon/solon) - 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% s
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
@@ -3259,7 +3260,7 @@
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
 - [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [ReaJason/xhs](https://github.com/ReaJason/xhs) - 基于小红书 Web 端进行的请求封装。https://reajason.github.io/xhs/
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
@@ -3370,7 +3371,7 @@
 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 
 ## rails 
@@ -4208,7 +4209,7 @@
 
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [langgenius/dify](https://github.com/langgenius/dify) - Production-ready platform for agentic workflow development.
+- [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [Mergifyio/mergify](https://github.com/Mergifyio/mergify) - Mergify Community Issue Tracker
