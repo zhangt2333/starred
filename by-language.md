@@ -350,7 +350,7 @@
 - [Guardsquare/proguard](https://github.com/Guardsquare/proguard) - ProGuard, Java optimizer and obfuscator
 - [future0923/DebugTools](https://github.com/future0923/DebugTools) - 热部署、热重载、调用任意Java方法、打印SQL、执行Groovy、搜索 http 地址（hot deploy, hotswap, hot reload, Similar to jrebel. Call any Java method, Similar to api tool. Others: SQL statements and time consumption, Search HttpUrl,
 - [babyfish-ct/jimmer](https://github.com/babyfish-ct/jimmer) - The most advanced ORM of JVM, for both java & kotlin
-- [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Mouseless mouse control and advanced keyboard customization.
+- [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Mouseless mouse control and advanced keyboard customization for Windows and macOS.
 - [openrewrite/rewrite](https://github.com/openrewrite/rewrite) - Automated mass refactoring of source code.
 - [freeok/so-novel](https://github.com/freeok/so-novel) - 小说下载｜网文下载 | 网络小说
 - [xpipe-io/xpipe](https://github.com/xpipe-io/xpipe) - Access your entire server infrastructure from your local desktop
@@ -1318,7 +1318,7 @@
 - [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) - 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
 - [flyfish-dev/file-viewer](https://github.com/flyfish-dev/file-viewer) - Browser-native Office / PDF / CAD / archive viewer for internal web apps, with Vue, React, Svelte, jQuery, Web Components, and no server-side conversion.
 - [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents
-- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Pi / OpenCode / Kimi Code, vibe coding anytime, anywhere
+- [tiann/hapi](https://github.com/tiann/hapi) - App for Codex / Claude Code / Pi / OpenCode / Kimi Code / Grok Build, vibe coding anytime, anywhere
 - [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - CC GUI Client (VibeCoding Platform Designed for Developers)
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp) - AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。
