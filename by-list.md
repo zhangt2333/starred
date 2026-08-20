@@ -949,7 +949,7 @@
 - [opensolon/solon](https://github.com/opensolon/solon) - 🔥 Java enterprise application development framework for full scenario: Restrained, Efficient, Open, Ecologicalll!!! 700% higher concurrency 50% memory savings Startup is 10 times faster. Packing 90% smaller; Compatible with java8 ~ java26; Supports LTS. (Replaceable spring)
 - [LinShunKang/MyPerf4J](https://github.com/LinShunKang/MyPerf4J) - High performance Java APM. Powered by ASM. Try it. Test it. If you feel its better, use it.
 - [google/error-prone](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
-- [GradleUp/shadow](https://github.com/GradleUp/shadow) - Gradle plugin for creating fat/uber JARs, transforming files, relocating packages, and optimizing applications with R8/ProGuard. The Gradle counterpart to Maven's Shade plugin.
+- [GradleUp/shadow](https://github.com/GradleUp/shadow) - Gradle plugin for creating fat/uber JARs, transforming files, relocating packages, and optimizing applications with R8/ProGuard. The Gradle counterpart to Maven Shade Plugin.
 - [jxlsteam/jxls](https://github.com/jxlsteam/jxls) - Java library for creating Excel reports using Excel templates
 - [ximatai/MuYun](https://github.com/ximatai/MuYun) - 一个云原生、开发者优先、前后端分离、按需插拔的轻代码平台。
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
@@ -971,7 +971,7 @@
 - [kotest/kotest](https://github.com/kotest/kotest) - Powerful, elegant and flexible test framework for Kotlin with assertions, property testing and data driven tests.
 - [Kotlin/dokka](https://github.com/Kotlin/dokka) - API documentation engine for Kotlin
 - [cortinico/kotlin-gradle-plugin-template](https://github.com/cortinico/kotlin-gradle-plugin-template) - 🐘 A template to let you started with custom Gradle Plugins + Kotlin in a few seconds
-- [korlibs/korge](https://github.com/korlibs/korge) - A Kotlin Multiplatform Game Engine
+- [korlibs/korge](https://github.com/korlibs/korge) - Korge is a Multiplatform Game Engine written in Kotlin for JVM, Web, Android and iOS.
 - [typesafegithub/github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 - [JetBrains/lets-plot](https://github.com/JetBrains/lets-plot) - Multiplatform plotting library based on the Grammar of Graphics
 - [ktorio/ktor](https://github.com/ktorio/ktor) - Framework for quickly creating connected applications in Kotlin with minimal effort
