@@ -590,7 +590,7 @@
 - [cla-assistant/cla-assistant](https://github.com/cla-assistant/cla-assistant) - Contributor License Agreement assistant (CLA assistant)
 - [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
 - [horsicq/Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy) - Program for determining types of files for Windows, Linux and MacOS.
-- [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具：提取账号发布、收藏、点赞、专辑作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书作品文件
+- [JoeanAmier/XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader) - 小红书（XiaoHongShu、RedNote）链接提取/作品采集工具
 - [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) - A collection of JSON schema files including full API
 - [ninja33/ODH](https://github.com/ninja33/ODH) - A chrome extension to show online dictionary content.
 - [SimonLammer/anki-persistence](https://github.com/SimonLammer/anki-persistence) - Persist data between both sides of an anki flashcard.
@@ -930,7 +930,7 @@
 - [formulahendry/955.WLB](https://github.com/formulahendry/955.WLB) - 955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)
 - [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计
 - [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese) - :page_facing_up: 适合中文的简历模板收集（LaTeX，HTML/JS and so on）由 @hoochanlon 维护
-- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
+- [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 
 ## PHP 
 
@@ -1325,7 +1325,7 @@
 - [zhizhuodemao/js-reverse-mcp](https://github.com/zhizhuodemao/js-reverse-mcp) - AI Agent-first JS 逆向 MCP Server：有头 Chrome 调试、断点、网络/WebSocket 分析、Patchright 反检测，可选 CloakBrowser。
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
-- [next-terminal/next-terminal](https://github.com/next-terminal/next-terminal) - Next Terminal 是一个简洁、安全、易用的运维审计系统，支持多种远程访问协议，包括 RDP、SSH、VNC、Telnet、HTTP 等，适用于企业级运维场景。它可以记录和回放会话，协助安全审计与合规追踪。
+- [next-terminal/next-terminal](https://github.com/next-terminal/next-terminal) - A simple, secure, easy-to-use bastion and session auditing system. Supports RDP, SSH, VNC, Telnet, HTTP, records and replays sessions for auditing and compliance.
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no
