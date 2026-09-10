@@ -3049,7 +3049,7 @@
 - [borisveytsman/acmart](https://github.com/borisveytsman/acmart) - ACM consolidated LaTeX styles
 - [lazyparser/minimalist-team-leader](https://github.com/lazyparser/minimalist-team-leader) - 极简主义团队管理操作手册
 - [scijava/native-lib-loader](https://github.com/scijava/native-lib-loader) - Native library loader for extracting and loading native libraries from Java.
-- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 离谱的英语学习指南/英语学习教程/英语学习/学英语
+- [byoungd/up](https://github.com/byoungd/up) - An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语
 - [java-native-access/jna](https://github.com/java-native-access/jna) - Java Native Access
 - [spring-gradle-plugins/dependency-management-plugin](https://github.com/spring-gradle-plugins/dependency-management-plugin) - A Gradle plugin that provides Maven-like dependency management functionality
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
