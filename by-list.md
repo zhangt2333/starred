@@ -692,6 +692,7 @@
 - [Do1e/mijia-api](https://github.com/Do1e/mijia-api) - 使用代码、CLI、MCP 直接控制米家设备。
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [TryHarder-L/NiniMenu](https://github.com/TryHarder-L/NiniMenu) - 一款温馨的情侣家庭每日菜单推荐与食谱管理应用，告别"今天吃什么"的纠结。
+- [qingjian-team/qingjian](https://github.com/qingjian-team/qingjian) - 青简 Qingjian：用 Rust 写的拼音输入法，候选词旁多一条正在学的语言的译词
 
 <a name="game"></a>
 
