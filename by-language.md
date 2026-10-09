@@ -657,7 +657,7 @@
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) - SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 - [alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
-- [byoungd/up](https://github.com/byoungd/up) - 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.
+- [byoungd/up](https://github.com/byoungd/up) - 人生进阶指南 韩先凯的人生进阶指南 英语学习指南 离谱的人生 AI时代终身学习：AI、学习、创业与成长。
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -761,6 +761,7 @@
 - [typesafegithub/github-workflows-kt](https://github.com/typesafegithub/github-workflows-kt) - Authoring GitHub Actions workflows in Kotlin. You won't go back to YAML!
 - [mamoe/mirai](https://github.com/mamoe/mirai) - 高效率 QQ 机器人支持库
 - [korlibs/korge](https://github.com/korlibs/korge) - Korge is a Multiplatform Game Engine written in Kotlin for JVM, Web, Android and iOS.
+- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [cortinico/kotlin-gradle-plugin-template](https://github.com/cortinico/kotlin-gradle-plugin-template) - 🐘 A template to let you started with custom Gradle Plugins + Kotlin in a few seconds
 - [Kotlin/dokka](https://github.com/Kotlin/dokka) - API documentation engine for Kotlin
 - [ktlint/ktlint](https://github.com/ktlint/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
@@ -877,7 +878,6 @@
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, s
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
 - [sdutacm/onlinejudge3](https://github.com/sdutacm/onlinejudge3) - SDUT OJ (OnlineJudge 3)
-- [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [imDazui/Tvlist-awesome-m3u-m3u8](https://github.com/imDazui/Tvlist-awesome-m3u-m3u8) - 直播源相关资源汇总 📺 💯 IPTV、M3U —— 勤洗手、戴口罩，祝愿所有人百毒不侵
 - [Arbeiter-PKU/HandlingYourJob](https://github.com/Arbeiter-PKU/HandlingYourJob) - How to handle campus recruitment. 校招感悟
 - [StardustDL/nju-lib-index](https://github.com/StardustDL/nju-lib-index) - NJU 图书馆中文阅览区简要索引
@@ -1307,7 +1307,7 @@
 - [sunnyyoung/WeChatTweak](https://github.com/sunnyyoung/WeChatTweak) - A command-line tool for tweaking WeChat - 首款微信 macOS 客户端撤回拦截与多开 🔨
 - [Linus0080/TongJi65472](https://github.com/Linus0080/TongJi65472) - 整活专用（bushi
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) - Menu bar Tool to set Charge Limits and Prolong Battery Lifespan
 - [lwouis/alt-tab-macos](https://github.com/lwouis/alt-tab-macos) - Windows alt-tab on macOS
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 
