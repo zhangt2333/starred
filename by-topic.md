@@ -515,7 +515,7 @@
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [reloadware/reloadium](https://github.com/reloadware/reloadium) - Hot Reloading and Profiling for Python
-- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track ccf-ranked & worldwide conference deadlines (Website, Python Cli, Wechat Applet)
+- [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - Agenticly track ccf-ranked & worldwide conference deadlines (Website, Python Cli, Wechat Applet)
 
 ## aspnet 
 
@@ -2696,7 +2696,7 @@
 
 ## others 
 
-- [scholay/rimes](https://github.com/scholay/rimes) - RIMES — modern macOS IME (rime-scholay): librime + buffer workbench
+- [scholay/xsime](https://github.com/scholay/xsime) - XSIME / 犀术IME / 犀術IME — 心有灵犀，落笔见术。Cross-platform input method and text workbench, powered by Rime.
 - [flymop/airplay-tv](https://github.com/flymop/airplay-tv) - Cast & mirror Apple devices (iPhone, iPad, Mac) to Android TV via AirPlay.
 - [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) - Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
