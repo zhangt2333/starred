@@ -779,7 +779,7 @@
 - [ccfddl/ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - Agenticly track ccf-ranked & worldwide conference deadlines (Website, Python Cli, Wechat Applet)
 - [2BAB/KOGE](https://github.com/2BAB/KOGE) - Notebook for Kotlin-oriented Gradle Essential.
 - [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - A curated list of awesome READMEs
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 \| Helping everyone live a longer, healthier, happier life. 八种语言 · 研究与日常习惯
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity \| Helping everyone live a longer, healthier, happier life. Available in 8 languages.
 - [dunwu/blog](https://github.com/dunwu/blog) - :dart: 钝悟的博客
 - [fullstack-hy2020/fullstack-hy2020.github.io](https://github.com/fullstack-hy2020/fullstack-hy2020.github.io) - 
 - [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验
@@ -930,7 +930,7 @@
 - [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java) - All Algorithms implemented in Java
 - [datastax/jvector](https://github.com/datastax/jvector) - JVector: the most advanced embedded vector search engine
 - [janex-dev/japp](https://github.com/janex-dev/japp) - A new packaging format for Java programs.
-- [byronka/minum](https://github.com/byronka/minum) - The smallest and simplest Java web app framework
+- [byronka/minum](https://github.com/byronka/minum) - A small Java webapp framework
 - [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 - [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [houbb/sensitive-word](https://github.com/houbb/sensitive-word) -  👮‍♂️The sensitive word tool for java.(敏感词/违禁词/违法词/脏词。基于 DFA 算法实现的高性能 java 敏感词过滤工具框架。内置支持单词标签分类分级。请勿发布涉及政治、广告、营销、翻墙、违反国家法律法规等内容。高性能敏感词检测过滤组件，附带繁体简体互换，支持全角半角互换，汉字转拼音，模糊搜索等功能。)
