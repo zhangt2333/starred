@@ -245,7 +245,7 @@
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
 - [donknap/dpanel](https://github.com/donknap/dpanel) - 轻量化 docker 可视化管理面板。lightweight  panel for docker
-- [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - smart charging ☀️🚘
 - [google/mtail](https://github.com/google/mtail) - extract internal monitoring data from application logs for collection in a timeseries database
 - [dundee/gdu](https://github.com/dundee/gdu) - Fast disk usage analyzer with console interface written in Go
 - [deepflowio/deepflow](https://github.com/deepflowio/deepflow) - eBPF Observability - Distributed Tracing and Profiling
@@ -325,6 +325,7 @@
 - [spring-attic/sagan](https://github.com/spring-attic/sagan) - The spring.io site and reference application
 - [liu673cn/bug](https://github.com/liu673cn/bug) - TVbox开源版（空壳-自行配置）
 - [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - A Programmer’s Guide to Longevity | Helping everyone live a longer, healthier, happier life. Available in 8 languages.
 - [github/opensource.guide](https://github.com/github/opensource.guide) - 📚 Community guides for open source creators
 - [x-dr/chatgptProxyAPI](https://github.com/x-dr/chatgptProxyAPI) - 🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出
 - [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -397,7 +398,7 @@
 - [qiusunshine/hikerView](https://github.com/qiusunshine/hikerView) - 海阔视界
 - [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 - [jar-analyzer/jar-analyzer](https://github.com/jar-analyzer/jar-analyzer) - Jar Analyzer - 一个 JAR 包 GUI 分析工具，内置 AI 助手协助分析，支持 JAR DIFF 分析，方法调用关系搜索，方法调用链 DFS 算法分析，模拟 JVM 的污点分析验证 DFS 结果，字符串搜索，Java Web 组件入口分析，CFG 程序分析，JVM 栈帧分析，自定义表达式搜索等
-- [byronka/minum](https://github.com/byronka/minum) - The smallest and simplest Java web app framework
+- [byronka/minum](https://github.com/byronka/minum) - A small Java webapp framework
 - [janex-dev/japp](https://github.com/janex-dev/japp) - A new packaging format for Java programs.
 - [Tai-e/CVE-2021-44228](https://github.com/Tai-e/CVE-2021-44228) - Utilize Tai-e to identify the Log4shell (a.k.a. CVE-2021-44228) Vulnerability
 - [Tai-e/Tai-e-Template](https://github.com/Tai-e/Tai-e-Template) - Scaffolding project that uses Tai-e as a dependency.
@@ -609,7 +610,6 @@
 - [layui/layui](https://github.com/layui/layui) - 一套遵循浏览器原生态开发模式的 Web UI 组件库。
 - [cfour-hi/gitstars](https://github.com/cfour-hi/gitstars) - Github Starred Repositories Manager
 - [josdejong/jsoneditor](https://github.com/josdejong/jsoneditor) - A web-based tool to view, edit, format, and validate JSON
-- [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [madnight/githut](https://github.com/madnight/githut) - Github Language Statistics
 - [badges/shields](https://github.com/badges/shields) - Concise, consistent, and legible badges in SVG and raster format
@@ -656,7 +656,7 @@
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [syntaxhighlighter/syntaxhighlighter](https://github.com/syntaxhighlighter/syntaxhighlighter) - SyntaxHighlighter is a fully functional self-contained code syntax highlighter developed in JavaScript.
 - [alseambusher/crontab-ui](https://github.com/alseambusher/crontab-ui) - Easy and safe way to manage your crontab file
-- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 人生进阶指南 AI时代生存指南 英语学习指南 离谱的人生 AI AI时代终身学习：AI、学习、创业与成长。
+- [byoungd/up](https://github.com/byoungd/up) - 韩先凯的人生进阶指南 AI时代 中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [hakimel/reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -747,7 +747,7 @@
 - [chrisbanes/tivi](https://github.com/chrisbanes/tivi) - Tivi is a TV show tracking Android app, which connects to trakt.tv
 - [apollographql/apollo-kotlin](https://github.com/apollographql/apollo-kotlin) - :rocket:  A strongly-typed, caching GraphQL client for the JVM, Android, and Kotlin multiplatform.
 - [http4k/http4k](https://github.com/http4k/http4k) - The Functional toolkit for Kotlin HTTP applications. http4k provides a simple and uniform way to serve, consume, and test HTTP services.
-- [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - a pragmatic lightweight dependency injection framework for Kotlin & Kotlin Multiplatform
+- [InsertKoinIO/koin](https://github.com/InsertKoinIO/koin) - Koin - pragmatic dependency injection for Kotlin & Kotlin Multiplatform. Koin DSL or Koin Annotations (JSR-330), compile safe with the Koin Compiler Plugin.
 - [kotlin-orm/ktorm](https://github.com/kotlin-orm/ktorm) - A lightweight ORM framework for Kotlin with strong-typed SQL DSL and sequence APIs.
 - [enricocid/Music-Player-GO](https://github.com/enricocid/Music-Player-GO) - 🎶🎼 Very slim music player 👨‍🎤 100% made in Italy 🍕🌳🌞🍝🌄
 - [JetBrains/Exposed](https://github.com/JetBrains/Exposed) - Kotlin SQL Framework
@@ -871,7 +871,6 @@
 - [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
 - [waydabber/BetterDisplay](https://github.com/waydabber/BetterDisplay) - Unlock your displays on your Mac. Flexible HiDPI scaling, XDR/HDR extra brightness, virtual screens, DDC control, image adjustments, PIP/streaming, EDID override. More info -  betterdisplay.pro/guide
 - [pengsida/learning_research](https://github.com/pengsida/learning_research) - 本人的科研经验
-- [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger) - 程序员延寿指南 | A programmer's guide to live longer
 - [davinci1010/pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor) - 拼多多apk内嵌提权代码，及动态下发dex分析
 - [FBlackBox/BlackBox](https://github.com/FBlackBox/BlackBox) - BlackBox is a virtual engine, it can clone and run virtual application on Android,  users don't have to install APK file to run the application on devices. BlackBox control all virtual applications, s
 - [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
@@ -992,7 +991,7 @@
 - [ReaJason/xhs](https://github.com/ReaJason/xhs) - 基于小红书 Web 端进行的请求封装。https://reajason.github.io/xhs/
 - [enthought/comtypes](https://github.com/enthought/comtypes) - A pure Python, lightweight COM client and server framework, based on the ctypes Python FFI package.
 - [budtmo/docker-android](https://github.com/budtmo/docker-android) - Android in docker solution with noVNC supported, video recording, mcp server and AI-agent
-- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
+- [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, 50+ TTS engines with voice cloning and 1696 languages!
 - [XiaoMi/ha_xiaomi_home](https://github.com/XiaoMi/ha_xiaomi_home) - Xiaomi Home Integration for Home Assistant
 - [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre) - The official source code repository for the calibre ebook manager
 - [docling-project/docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
@@ -1350,6 +1349,7 @@
 - [VERT-sh/VERT](https://github.com/VERT-sh/VERT) - The next-generation file converter. Open source, fully local* and free forever.
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
@@ -1437,6 +1437,7 @@
 - [codingcommons/typesafe-i18n](https://github.com/codingcommons/typesafe-i18n) - A fully type-safe and lightweight internationalization library for all your TypeScript and JavaScript projects.
 - [typescript-cheatsheets/react](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
+- [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown) - ✨ A Markdown Editor
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS, Linux, Android and iOS.
 - [noodle-run/noodle](https://github.com/noodle-run/noodle) - Rethinking Student Productivity
 - [cypress-io/cypress-realworld-app](https://github.com/cypress-io/cypress-realworld-app) - A payment application to demonstrate real-world usage of Cypress testing methods, patterns, and workflows.
@@ -1562,7 +1563,6 @@
 
 - [1sdv/TripStar](https://github.com/1sdv/TripStar) - 旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的各种问题，为提供一站式旅游攻略而生。
 - [HuLaSpark/HuLa](https://github.com/HuLaSpark/HuLa) - 🍀 A cross-platform instant messaging desktop application with exceptional performance built on Rust + Vue3, compatible with Windows, macOS, Linux, Android, and iOS（一款基于Rust+Vue3极致性能的跨平台即时通讯桌面应用，兼容Wind
-- [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | Next Generation Open Source Wiki
 - [WuKongSecurity/SpiderAPI](https://github.com/WuKongSecurity/SpiderAPI) - SpiderApi - 虫术 - 爬虫逆向常用 API
 - [pangxiaobin/image-matting](https://github.com/pangxiaobin/image-matting) - AI抠图、格式转换、图片压缩、AI证件照
 - [xororz/web-realesrgan](https://github.com/xororz/web-realesrgan) - Run Real-ESRGAN/Real-CUGAN in Your Local Browser on Any Device. Powered by TensorFlow.js. Support computing with WebGL and WebGPU.
