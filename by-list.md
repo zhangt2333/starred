@@ -678,7 +678,7 @@
 - [yang999876/sharedprinter](https://github.com/yang999876/sharedprinter) - 
 - [yihong0618/running_page](https://github.com/yihong0618/running_page) - Make your own running home page
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - smart charging ☀️🚘
-- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64 and arm64.
+- [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS plaintext with eBPF—no MITM proxy or custom CA installation. Supports Linux and Android on x86_64\arm64 and loong64.
 - [pikvm/pikvm](https://github.com/pikvm/pikvm) - Open and inexpensive DIY IP-KVM based on Raspberry Pi
 - [tiny-pilot/tinypilot](https://github.com/tiny-pilot/tinypilot) - Use your Raspberry Pi as a browser-based KVM.
 - [lcpmgh/colors](https://github.com/lcpmgh/colors) - 科研绘图配色推荐器
