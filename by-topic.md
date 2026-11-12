@@ -284,6 +284,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [website](#website)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [windows-11](#windows-11)
 - [wordpress](#wordpress)
@@ -322,7 +323,7 @@
 
 ## agents 
 
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
 - [agentheroes/agentheroes](https://github.com/agentheroes/agentheroes) - Generate, animate and schedule your AI characters 🤖
@@ -335,7 +336,7 @@
 - [AAswordman/Operit](https://github.com/AAswordman/Operit) - The most powerful AI agent and AI chat software on Android/Operit是一款Android上能力最为强大、发展最久的AI Agent
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - Draw and edit draw.io diagrams by chatting with an AI. Web app, desktop app, and an MCP server for Claude Code, Cursor, Codex and VS Code.
 - [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) - Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, me
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
@@ -379,7 +380,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Sylinko/Everywhere](https://github.com/Sylinko/Everywhere) - On-screen aware AI assistant for your desktop. Uses current app context, multiple LLMs, and MCP tools to help you act across apps.
 - [droidrun/mobilerun](https://github.com/droidrun/mobilerun) - Automate your mobile devices with natural language commands - an LLM agnostic mobile Agent 🤖
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [nocobase/nocobase](https://github.com/nocobase/nocobase) - NocoBase is the open-source platform for building, running, and evolving business systems with AI. Agents write the code and do the work, NocoBase provides the foundation and governance, and people ma
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 - [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion.
@@ -547,7 +548,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [certimate-go/certimate](https://github.com/certimate-go/certimate) - An open-source and free self-hosted SSL certificates ACME tool, automates the full-cycle of issuance, deployment, renewal, and monitoring visually. 完全开源免费的自托管 SSL 证书 ACME 工具，申请、部署、续期、监控全流程自动化可视化，支持各大主
-- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
+- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract structured data with LLMs via Pydantic AI, or control the browser in natural language with Stagehan
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -959,7 +960,7 @@
 - [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic, privacy-aware Python HTTP Client
 - [xisuo67/XHS-Spider](https://github.com/xisuo67/XHS-Spider) - 小红书数据采集、网站图片、视频资源批量下载工具，颜值超高的数据采集工具（批量下载，视频提取，图片）Telegram:https://t.me/+ZtLSwuIKTo44MDY1
 - [jhao104/proxy_pool](https://github.com/jhao104/proxy_pool) - Python ProxyPool for web spider
-- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
+- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract structured data with LLMs via Pydantic AI, or control the browser in natural language with Stagehan
 - [NaiboWang/EasySpider](https://github.com/NaiboWang/EasySpider) - A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。
 - [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
 - [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
@@ -1099,7 +1100,7 @@
 
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
@@ -2759,7 +2760,7 @@
 - [MoonshotAI/kimi-code](https://github.com/MoonshotAI/kimi-code) - Kimi Code CLI  —  The Starting Point for Next-Gen Agents
 - [black-ant/Ant-Browser](https://github.com/black-ant/Ant-Browser) - 指纹浏览器
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
-- [1sdv/TripStar](https://github.com/1sdv/TripStar) - 旅途星辰 (TripStar)是一个创新的 AI 文旅智能体应用，旨在解决用户在规划旅行时面临的各种问题，为提供一站式旅游攻略而生。
+- [1sdv/TripStar](https://github.com/1sdv/TripStar) - TripStar 是一个创新的 AI 文旅智能体应用，致力于打造多智能体协作文旅规划平台，有别于传统的旅游攻略网站，本项目的创新模式更像是一位经验丰富的人类旅行管家一样，自动搜索小红书旅行信息、查询天气、精选酒店并在地图上规划最优景点路线，快速生成旅游攻略路书。
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [xykt/IPQuality](https://github.com/xykt/IPQuality) - IP质量检测脚本 - IP Quality Check Script
 - [mutagen-io/mutagen](https://github.com/mutagen-io/mutagen) - Fast file synchronization and network forwarding for remote development
@@ -2785,7 +2786,7 @@
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [karpathy/rendergit](https://github.com/karpathy/rendergit) - Render any git repo into a single static HTML page for humans or LLMs
 - [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk) - The customization marketplace for Windows programs: https://windhawk.net/
-- [Alan-CRL/Inkeys](https://github.com/Alan-CRL/Inkeys) - 将你的创意随心所欲地书写在屏幕的任意角落。智绘教Inkeys 拥有丝滑流畅的高性能画笔、丰富强大的功能，以及众多贴心小设计，全面提升你的效率与使用体验。 | Unleash your creativity by writing anywhere on your screen with ease. Inkeys brings you ultra-smooth, high-performance br
+- [Alan-CRL/Inkeys](https://github.com/Alan-CRL/Inkeys) - Inkeys is a free, open-source Windows app for desktop annotation, free-form whiteboarding, and slide markup—featuring smooth, responsive ink, smart drawing tools, and a sleek, customizable interface.
 - [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [aradzie/keybr.com](https://github.com/aradzie/keybr.com) - The smartest way to learn touch typing and improve your typing speed.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -3334,7 +3335,7 @@
 ## python 
 
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 | automate mouse clicks and keyboard input
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-driving agent platform
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-managing agent platform
 - [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic, privacy-aware Python HTTP Client
 - [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui) - Create web-based user interfaces with Python. The nice way.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast, programmable and local-first microVM runtime and library
@@ -3352,7 +3353,7 @@
 - [encode/httpx](https://github.com/encode/httpx) - A next generation HTTP client for Python. 🦋
 - [scrapy/parsel](https://github.com/scrapy/parsel) - Parsel lets you extract data from XML/HTML documents using XPath or CSS selectors
 - [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers) - Python Sorted Container Types: Sorted List, Sorted Dict, and Sorted Set
-- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
+- [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract structured data with LLMs via Pydantic AI, or control the browser in natural language with Stagehan
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
 - [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 - [vastsa/FileCodeBox](https://github.com/vastsa/FileCodeBox) - 文件快递柜-匿名口令分享文本，文件，像拿快递一样取文件（FileCodeBox - File Express Cabinet - Anonymous Passcode Sharing Text, Files, Like Taking Express Delivery for Files）
@@ -4242,6 +4243,10 @@
 - [lookscanned/lookscanned.io](https://github.com/lookscanned/lookscanned.io) - 📚 LookScanned.io - Make your PDFs look scanned
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [meta/docusaurus](https://github.com/meta/docusaurus) - Easy to maintain open source documentation websites.
+
+## whatsapp 
+
+- [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
 
 ## windows 
 
