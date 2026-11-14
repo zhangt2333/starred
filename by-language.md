@@ -284,7 +284,7 @@
 - [wait4x/wait4x](https://github.com/wait4x/wait4x) - Wait4X allows you to wait for a port or a service to enter the requested state.
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
 - [Terry-Mao/goim](https://github.com/Terry-Mao/goim) - goim
-- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
+- [pgrok/pgrok](https://github.com/pgrok/pgrok) - Self-hosted, multi-tenant networking platform for exposing HTTP services and raw TCP connections
 - [usememos/memos](https://github.com/usememos/memos) - Memos is an open-source, self-hosted note-taking app that brings your everyday thoughts together in a personal timeline. Your data stays yours, and you choose what to keep private or share.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
