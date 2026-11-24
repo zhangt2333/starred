@@ -645,7 +645,6 @@
 - [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device
 - [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
 - [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract) - Tesseract Open Source OCR Engine (main repository)
-- [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
 - [pomber/stargazer](https://github.com/pomber/stargazer) - Your repo reached a stars milestone? Celebrate with a video of your stargazers!
 - [framist/SAFC-bot](https://github.com/framist/SAFC-bot) - SAFC — 元平台、弱中心 — 不止是评价导师 \| Student Anti-Fraud Center - Meta & Decentralization - not just reviewing supervisor
