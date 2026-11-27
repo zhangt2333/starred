@@ -297,7 +297,7 @@
 - [Resinat/Resin](https://github.com/Resinat/Resin) - A high-performance proxy pool gateway. Turn massive proxy subscriptions into a stable, smart, and observable network with sticky sessions.
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
 - [1sdv/TripStar](https://github.com/1sdv/TripStar) - TripStar 是一个创新的 AI 文旅智能体应用，致力于打造多智能体协作文旅规划平台，有别于传统的旅游攻略网站，本项目的创新模式更像是一位经验丰富的人类旅行管家一样，自动搜索小红书旅行信息、查询天气、精选酒店并在地图上规划最优景点路线，快速生成旅游攻略路书。
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, HlS(m3u8), FTP and ed2k. Cross-platform, built with Golang and Flutter.
 - [taojy123/KeymouseGo](https://github.com/taojy123/KeymouseGo) - 类似按键精灵的鼠标键盘录制和自动化操作 模拟点击和键入 \| automate mouse clicks and keyboard input
 - [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) - 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
 - [shihabal3amri/DiPlay](https://github.com/shihabal3amri/DiPlay) - Independent CarPlay receiver for compatible Android head units. Wired and wireless public preview.
